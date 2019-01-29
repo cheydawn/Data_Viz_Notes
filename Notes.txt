@@ -1,0 +1,6 @@
+Shared in Data Visualization class:
+- Converting data into meaningful information is key.
+- The point of data visualization is to convey meaning - simply.
+- People are visual learners.
+- Data should be presented in an ethical manner.
+- The class will be more practical that theoretical.
